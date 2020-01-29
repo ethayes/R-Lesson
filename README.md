@@ -6,3 +6,5 @@
 **Dependencies:** dplyr, ggplot2
 
 This repository contains analyses of life expectancy vs GDP
+
+Jenna is interested in puppies and chocolate.
