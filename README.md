@@ -6,3 +6,4 @@
 **Dependencies:** dplyr, ggplot2
 
 This repository contains analyses of life expectancy vs GDP
+Erika is interested in population growth
