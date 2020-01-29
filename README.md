@@ -1,5 +1,5 @@
 ## R Lesson
-**Author:** Erika Hayes
+**Author:** Erika Hayes and Jenna Sullivan
 
 **Start Date:** January 28, 2020
 
